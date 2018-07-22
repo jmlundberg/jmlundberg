@@ -1,6 +1,6 @@
 # This is a scratch pad / work in progress
 
-[Back to main](../../README.md)
+[Back to main](../README.md)
 
 # permutation of pointer wrappers
 
