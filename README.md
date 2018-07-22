@@ -1,16 +1,4 @@
 # jmlundberg.github.io
 
-Example 1
+[Pointer wrapper permutations](posts/pointer_wrapper_permutations.md)
 
-* 1
-* 2
-* 3
-
-[a posts example](posts/example.md)
-
-```c++
-template<typename T> struct {
-  int A;
-  T B;
-};
-```
