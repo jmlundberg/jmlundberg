@@ -1,6 +1,6 @@
 # This is a scratch pad / work in progress
 
-[Back to main](../README.md)
+[Back to main](https://jmlundberg.github.io)
 
 # permutation of pointer wrappers
 
